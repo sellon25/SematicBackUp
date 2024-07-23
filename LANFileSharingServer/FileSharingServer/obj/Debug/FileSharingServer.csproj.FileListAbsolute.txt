@@ -1,0 +1,15 @@
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\bin\Debug\FileSharingServer.exe.config
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\bin\Debug\FileSharingServer.exe
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\bin\Debug\FileSharingServer.pdb
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.csproj.AssemblyReference.cache
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.Form1.resources
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.Properties.Resources.resources
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.csproj.GenerateResource.cache
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.csproj.CoreCompileInputs.cache
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.exe
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.pdb
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\bin\Debug\FileSharingServer.exe.manifest
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\bin\Debug\FileSharingServer.application
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.exe.manifest
+C:\Users\Knight1\source\repos\FileSharingServer\FileSharingServer\obj\Debug\FileSharingServer.application
