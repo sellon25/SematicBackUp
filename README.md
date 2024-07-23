@@ -8,7 +8,7 @@ The Semantic Backup App is designed to help you manage and back up your importan
 To get started, download the `SemanticBUApp_and_LANFileSharer.zip` file from the repository.
 
 [Download Semantic Backup App and LAN File Sharer](https://github.com/sellon25/SematicBackUp/raw/main/SemanticBUApp_and_LANFileSharer.zip)
-<https://github.com/sellon25/SematicBackUp/raw/main/SemanticBUApp_and_LANFileSharer.zip>
+'https://github.com/sellon25/SematicBackUp/raw/main/SemanticBUApp_and_LANFileSharer.zip'
 
 ### Step 2: Extract the ZIP File
 
