@@ -23,5 +23,5 @@ If you would like to back up files and computers within the same public network,
 3. Double-click the `LANFileSharer.exe` file to begin the installation process.
 4. Follow the on-screen instructions to complete the installation.
 
-
+You can go back to https://github.com/sellon25/SematicBackUp/ to view the source code.
 Thank you for using the Semantic Backup App and LAN File Sharer! We hope this tool helps you manage and secure your data effectively.
